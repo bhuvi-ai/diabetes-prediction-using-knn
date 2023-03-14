@@ -1,2 +1,16 @@
 # diabetes-prediction-using-knn
-Predict whether a patient has diabetes.
+To predict whether a patient has diabetes based on certain medical predictor variables.
+The dataset includes several predictors (pregnancies such as BMI, insulin level, age, and so on) and one target variable.
+
+
+The fields are :-
+
+Pregnancies,
+ Glucose,
+ BloodPressure,
+ SkinThickness,
+ Insulin,
+ BMI,
+ DiabetesPedigree,
+ Age,
+ Outcome.

@@ -12,8 +12,11 @@ Dataset: The dataset required for this project is available in the dataset.rar f
 
 Ensure you have Python installed on your system.
 Install the required dependencies by running:
+
 Copy code
+
 **pip install -r requirements.txt**
+
 Open the diabetes-prediction-using-knn.ipynb file in a Jupyter Notebook environment or any compatible platform.
 Follow the instructions provided within the notebook to execute the code cells and perform the prediction using the KNN algorithm.
 **Contents:**
